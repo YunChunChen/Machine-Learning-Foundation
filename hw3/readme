@@ -1,0 +1,18 @@
+[language] python2.7
+
+problem 7: 
+    code: p7/p7.py
+    command: python p7.py
+
+problem 8: 
+    code: p8/p8.py
+    command: python p8.py
+    note: data should put under the same directory
+          learning rate adjustment should be changed manually in code
+
+problem 9: 
+    code: p9/p9.py
+    command: python p9.py
+    note: data should put under the same directory
+          learning rate adjustment should be changed manually in code
+

@@ -1,0 +1,4 @@
+[language] python3.5
+[command] python3.6 decision_stump.py
+
+plot.py is used to plot the scatter plot.

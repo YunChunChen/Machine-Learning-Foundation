@@ -1,0 +1,3 @@
+[language] python2.7
+[command] python PLA.py path/to/data
+example: python PLA.py hw1_8_train.dat

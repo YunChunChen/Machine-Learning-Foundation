@@ -1,0 +1,11 @@
+[language] python2.7
+
+problem 7: 
+    code: p7/p7.py
+    command: python p7.py
+
+problem 8: 
+    code: p8/p8.py
+    command: python p8.py
+
+note: data should put under the same directory
