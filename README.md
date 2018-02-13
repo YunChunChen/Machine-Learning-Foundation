@@ -1,2 +1,2 @@
 # Machine-Learning-Foundations
-This repository contains the homework code for Machine Learning Foundations course.
+This repository contains the homework codes for Machine Learning Foundations course.
